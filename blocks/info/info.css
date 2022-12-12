@@ -1,0 +1,25 @@
+.info {
+  width: 58.2%;
+  padding-left: 100px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .info {
+    width: 74.3%;
+    padding-left: 8.2%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .info {
+    width: 93.7%;
+    padding-left: 24px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .info {
+    width: 90%;
+    padding-left: 5%;
+  }
+}

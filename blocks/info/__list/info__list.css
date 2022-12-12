@@ -1,0 +1,15 @@
+.info__list {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  margin: 33px 0 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .info__list {
+    margin: 34px 0 0;
+  }
+}
