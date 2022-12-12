@@ -6,4 +6,4 @@ git branch
 develop
 
 touch .nojekyll
-git add . && git commit -m "added nojekyll" 
+git add . && git commit -m "added nojekyll"
