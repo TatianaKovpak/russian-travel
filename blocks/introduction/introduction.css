@@ -1,11 +1,10 @@
 .introduction {
-  width: 83.1%;
-  position: relative;
+  width: 76.8%;
   margin: 0 auto;
   padding-top: 56px;
 }
 
-@media screen and (mix-width: 1024px) and (max-width: 1279px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .introduction {
     width: 90.6%;
     padding-top: 48px;

@@ -1,5 +1,5 @@
 .places {
-  width: 83.1%;
+  width: 76.8%;
   padding-top: 92px;
   padding-bottom: 92px;
   margin: 0 auto;
@@ -22,6 +22,7 @@
     padding-top: 88px;
     padding-bottom: 90px;
     margin: 0 auto;
+    gap: 73px;
   }
 }
 
@@ -31,5 +32,6 @@
     padding-top: 64px;
     padding-bottom: 66px;
     margin: 0;
+    gap: 50px;
   }
 }

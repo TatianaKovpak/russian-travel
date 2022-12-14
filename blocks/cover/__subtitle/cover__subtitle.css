@@ -12,13 +12,13 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover__subtitle {
-    width: 54.68%;
+    width: 35.15%;
     padding-top: 3.12%;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .cover__subtitle {
-    width: 72.9%;
+    width: 46.8%;
     padding-top: 4.16%;
   }
 }
